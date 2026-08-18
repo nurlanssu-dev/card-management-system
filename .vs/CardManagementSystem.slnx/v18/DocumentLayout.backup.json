@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B30DC18D-8C26-4143-B8DD-E2118FB409BF}|Static\\Static.csproj|c:\\users\\nurlan\\source\\repos\\static.extension method\\static\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30DC18D-8C26-4143-B8DD-E2118FB409BF}|Static\\Static.csproj|solutionrelative:static\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30DC18D-8C26-4143-B8DD-E2118FB409BF}|Static\\Static.csproj|c:\\users\\nurlan\\source\\repos\\static.extension method\\static\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30DC18D-8C26-4143-B8DD-E2118FB409BF}|Static\\Static.csproj|solutionrelative:static\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30DC18D-8C26-4143-B8DD-E2118FB409BF}|Static\\Static.csproj|c:\\users\\nurlan\\source\\repos\\static.extension method\\static\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30DC18D-8C26-4143-B8DD-E2118FB409BF}|Static\\Static.csproj|solutionrelative:static\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30DC18D-8C26-4143-B8DD-E2118FB409BF}|Static\\Static.csproj|c:\\users\\nurlan\\source\\repos\\static.extension method\\static\\debitcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30DC18D-8C26-4143-B8DD-E2118FB409BF}|Static\\Static.csproj|solutionrelative:static\\debitcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30DC18D-8C26-4143-B8DD-E2118FB409BF}|Static\\Static.csproj|c:\\users\\nurlan\\source\\repos\\static.extension method\\static\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30DC18D-8C26-4143-B8DD-E2118FB409BF}|Static\\Static.csproj|solutionrelative:static\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30DC18D-8C26-4143-B8DD-E2118FB409BF}|Static\\Static.csproj|c:\\users\\nurlan\\source\\repos\\static.extension method\\static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30DC18D-8C26-4143-B8DD-E2118FB409BF}|Static\\Static.csproj|solutionrelative:static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30DC18D-8C26-4143-B8DD-E2118FB409BF}|Static\\Static.csproj|c:\\users\\nurlan\\source\\repos\\static.extension method\\static\\enums\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30DC18D-8C26-4143-B8DD-E2118FB409BF}|Static\\Static.csproj|solutionrelative:static\\enums\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardService.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\CardService.cs",
+              "RelativeDocumentMoniker": "Static\\CardService.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\CardService.cs",
+              "RelativeToolTip": "Static\\CardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T13:35:56.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICardService.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\ICardService.cs",
+              "RelativeDocumentMoniker": "Static\\ICardService.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\ICardService.cs",
+              "RelativeToolTip": "Static\\ICardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T13:30:34.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreditCard.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\CreditCard.cs",
+              "RelativeDocumentMoniker": "Static\\CreditCard.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\CreditCard.cs",
+              "RelativeToolTip": "Static\\CreditCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T13:05:38.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DebitCard.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\DebitCard.cs",
+              "RelativeDocumentMoniker": "Static\\DebitCard.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\DebitCard.cs",
+              "RelativeToolTip": "Static\\DebitCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T12:55:43.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\Enums\\Bank.cs",
+              "RelativeDocumentMoniker": "Static\\Enums\\Bank.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\Enums\\Bank.cs",
+              "RelativeToolTip": "Static\\Enums\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T12:36:49.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\Card.cs",
+              "RelativeDocumentMoniker": "Static\\Card.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\Card.cs",
+              "RelativeToolTip": "Static\\Card.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T12:24:12.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\Program.cs",
+              "RelativeDocumentMoniker": "Static\\Program.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\Program.cs",
+              "RelativeToolTip": "Static\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T12:23:53.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
