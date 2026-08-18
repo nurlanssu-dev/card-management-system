@@ -43,7 +43,7 @@ public class CreditCard : Card
     }
     public override string ToString()
     {
-       return $"Id: {Id}, Balance: {Balance}, Bonus: {Bonus}, CardNumber: {CardNumber}, Bank: {Bank}";
+       return $"CreditCard -> Id: {Id}, Balance: {Balance}, Bonus: {Bonus}, CardNumber: {CardNumber}, Bank: {Bank}";
     }
 
 }

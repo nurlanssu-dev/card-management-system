@@ -3,6 +3,6 @@
 public enum Bank
 {
     KapitalBank= 1,
-    LEO = 2, 
+    Leo = 2, 
     ABB= 3
 }

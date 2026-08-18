@@ -1,0 +1,15 @@
+C:\Users\Nurlan\source\repos\Static.Extension Method\Static\bin\Debug\net10.0\CardManagementSystem.exe
+C:\Users\Nurlan\source\repos\Static.Extension Method\Static\bin\Debug\net10.0\CardManagementSystem.deps.json
+C:\Users\Nurlan\source\repos\Static.Extension Method\Static\bin\Debug\net10.0\CardManagementSystem.runtimeconfig.json
+C:\Users\Nurlan\source\repos\Static.Extension Method\Static\bin\Debug\net10.0\CardManagementSystem.dll
+C:\Users\Nurlan\source\repos\Static.Extension Method\Static\bin\Debug\net10.0\CardManagementSystem.pdb
+C:\Users\Nurlan\source\repos\Static.Extension Method\Static\obj\Debug\net10.0\CardManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlan\source\repos\Static.Extension Method\Static\obj\Debug\net10.0\CardManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Nurlan\source\repos\Static.Extension Method\Static\obj\Debug\net10.0\CardManagementSystem.AssemblyInfo.cs
+C:\Users\Nurlan\source\repos\Static.Extension Method\Static\obj\Debug\net10.0\CardManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\source\repos\Static.Extension Method\Static\obj\Debug\net10.0\CardManagementSystem.sourcelink.json
+C:\Users\Nurlan\source\repos\Static.Extension Method\Static\obj\Debug\net10.0\CardManagementSystem.dll
+C:\Users\Nurlan\source\repos\Static.Extension Method\Static\obj\Debug\net10.0\refint\CardManagementSystem.dll
+C:\Users\Nurlan\source\repos\Static.Extension Method\Static\obj\Debug\net10.0\CardManagementSystem.pdb
+C:\Users\Nurlan\source\repos\Static.Extension Method\Static\obj\Debug\net10.0\CardManagementSystem.genruntimeconfig.cache
+C:\Users\Nurlan\source\repos\Static.Extension Method\Static\obj\Debug\net10.0\ref\CardManagementSystem.dll

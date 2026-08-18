@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\Static.csproj",
-      "projectName": "Static",
-      "projectPath": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\Static.csproj",
+      "projectUniqueName": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\CardManagementSystem.csproj",
+      "projectName": "CardManagementSystem",
+      "projectPath": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\CardManagementSystem.csproj",
       "packagesPath": "C:\\Users\\Nurlan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Nurlan\\source\\repos\\Static.Extension Method\\Static\\obj\\",
       "projectStyle": "PackageReference",
